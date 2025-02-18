@@ -1,4 +1,4 @@
-# IMDB Top 1000 Movies Exploration (December 2024)
+# IMDB Top 1000 Movies Exploration
 
 ## Overview
 This project involves building a Power BI dashboard to analyze the Top 1000 IMDB movies, exploring trends in genre, director popularity, audience preferences, and financial performance.
